@@ -93,7 +93,8 @@ The objective of this project is to demonstrate my ability to:
 * Translate business questions into actionable insights
 * Apply best practices in data preparation and visualization
 
-
+##  Preview
+https://github.com/Dhanashri-Karve/HR-Analytics-Report/blob/main/HR%20Analytics%20Report%20Preview.png
 
 
 
