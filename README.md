@@ -62,6 +62,9 @@ This page helps identify key drivers of employee turnover and areas requiring HR
 
 
 ## Data Model and Relationships
+## 🔗 Data Model & Relationships
+
+![Power BI Data Model]()
 
 
 
