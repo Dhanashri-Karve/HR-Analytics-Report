@@ -62,11 +62,24 @@ This page helps identify key drivers of employee turnover and areas requiring HR
 
 
 ## Data Model and Relationships
-## 🔗 Data Model & Relationships
 
 ![Power BI Data Model](https://github.com/Dhanashri-Karve/HR-Analytics-Report/blob/main/Data%20Model%20and%20Relationship%20Preview.png)
 
+Model Design Overview
+People_Fact acts as the central fact table, containing employee-level records such as employment status, hire date, active status, and foreign keys.
+Multiple dimension tables are connected to the fact table using one-to-many (1:*) relationships, enabling flexible slicing and filtering.
 
+Dimension Tables
+
+Demographic_Dim – age and age group attributes
+Department_Dim – department and sub-department details
+Job_level_Dim – employee job levels
+Education_Dim – education background
+Marital_Dim – marital status
+Location_Dim – employee location and city
+Manager_Dim – reporting manager information
+Term_Dim – termination type and reason
+Date – calendar table used for time-based analysis (year, month, weekday, timeframe)
 
 ##  Interactive Features
 
