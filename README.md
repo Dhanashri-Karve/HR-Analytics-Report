@@ -116,7 +116,7 @@ The objective of this project is to demonstrate my ability to:
 ##  Preview
 ![Power BI Data Model](https://github.com/Dhanashri-Karve/HR-Analytics-Report/blob/main/HR%20Analytics%20Report%20Preview.png)
 
-https://github.com/Dhanashri-Karve/HR-Analytics-Report/blob/main/HR%20Analytics%20Report%20Preview.png
+
 
 
 
